@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="com.google.dagger:dagger-compiler:2.16" type="repository">
+    <properties maven-id="com.google.dagger:dagger-compiler:2.16" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/dagger/dagger-compiler/2.16/dagger-compiler-2.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/dagger/dagger/2.16/dagger-2.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/dagger/dagger-producers/2.16/dagger-producers-2.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-compat-qual/2.3.0/checker-compat-qual-2.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/dagger/dagger-spi/2.16/dagger-spi-2.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/googlejavaformat/google-java-format/1.4/google-java-format-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/javac-shaded/9-dev-r4023-3/javac-shaded-9-dev-r4023-3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.3-jre/guava-23.3-jre.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/javapoet/1.8.0/javapoet-1.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
